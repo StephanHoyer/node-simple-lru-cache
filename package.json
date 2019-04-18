@@ -24,7 +24,7 @@
   "dependencies": {
   },
   "devDependencies": {
-      "mocha": "*",
+      "mocha": ">=6.1.4",
       "should": "*"
   },
   "scripts": {
